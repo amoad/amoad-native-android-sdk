@@ -41,3 +41,4 @@ private static final String TAG1 = "Ad01";
    ([GooglePlayerService設定方法](https://developers.google.com/android/guides/setup#add_google_play_services_to_your_project))
 
 <img width="640" src="docs/res/AndroidStudio.png">
+
