@@ -3,4 +3,6 @@
 </div>
 
 # AMoAd Native Demo for Android
-[新しいレポジトリ](https://github.com/amoad/amoad-android-sdk)を参考にしてください
+このリポジトリは現在、使われておりません。
+
+ネイティブHTML広告については[こちら](https://github.com/amoad/amoad-android-sdk)のリポジトリをご参照ください。
